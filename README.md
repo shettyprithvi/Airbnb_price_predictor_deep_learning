@@ -1,16 +1,16 @@
 # Datathon
 
-# 1
+### 1.
 Problem: To Improve The Customer Experience To Retain Customers And Thus Increase The Overall Revenue.
 Process: Implementing Deep Learning To Predict The Sentiment Of The Review.
 
 AN IN-DEPTH ANALYSIS OF THE DEEP LEARNING OUTPUT CAN HELP US DETERMINE WHAT NEGATIVE EXPERIENCES IMPACT THE REVIEW RATING.
 THE RESULT WILL BE AN IMPROVED EXPERIENCE AND GREAT CUSTOMER RETENTION.
 
+![alt text](https://github.com/shettyprithvi/Datathon/blob/master/scattertext.PNG)
 
 
-# 2
-
+### 2. 
 Problem: The Rental Price Of AirBnB Hosts Are Undervalued Due To Lack Of Amenities.
 
 Process: Scattertext Analysis Of Amenities In High Rating Reviews Vs Low Rating Reviews. 
