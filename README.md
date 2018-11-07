@@ -17,7 +17,7 @@ Process: Scattertext Analysis Of Amenities In High Rating Reviews Vs Low Rating 
 2. Calculate The Frequency Of The Amenities For Each Sser Id. 
 3. Use The Frequency To Produce A Scattertext Model Using D3 At Backend.
 
-![alt text](https://github.com/shettyprithvi/Datathon/blob/master/scattertext2.PNG)
+![alt text](https://github.com/shettyprithvi/Datathon/blob/master/scattertext.PNG)
 ![alt text](https://github.com/shettyprithvi/Datathon/blob/master/freq.PNG)
 
 
