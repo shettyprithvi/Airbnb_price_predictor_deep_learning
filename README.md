@@ -1,6 +1,6 @@
 # Datathon
 
-## Summary : Given AirBnb data, I apply deep learning for classification of text reviews to impact on price. 
+## Summary : Given AirBnb data, I apply deep learning (Recurrent Neural Networks) for classification of text reviews to visualize impact on price. 
 
 ### 1. Problem: To Improve The Customer Experience To Retain Customers And Thus Increase The Overall Revenue.
 Process: Implementing Deep Learning To Predict The Sentiment Of The Review.
