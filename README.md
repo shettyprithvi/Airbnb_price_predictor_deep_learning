@@ -23,7 +23,7 @@ Process: Scattertext Analysis Of Amenities In High Rating Reviews Vs Low Rating 
 ![alt text](https://github.com/shettyprithvi/Datathon/blob/master/freq.PNG)
 
 
-Impact: Based On Top Amenities Occurring In The Top Review Ratings In The Past, The Host Can Decide Where To Invest In The Future To Improve The Experience And Hence, The Sale.
+Impacts: Based On Top Amenities Occurring In The Top Review Ratings In The Past, The Host Can Decide Where To Invest In The Future To Improve The Experience And Hence, The Sale.
 
 The Top Amenities For This Dataset Include: 
 
